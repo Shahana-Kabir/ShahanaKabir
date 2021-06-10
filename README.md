@@ -1,5 +1,5 @@
 # ShahanaKabir
-shahana.kabir@gmail.com | 403-399-5792 | Vancouver, BC | LinkedIn (https://www.linkedin.com/in/shahana-kabir/)
+shahana.kabir@gmail.com | 403-399-5792 | Vancouver, BC | [LinkedIn] (https://www.linkedin.com/in/shahana-kabir/)
 
 ## Highlights
 - Completed full-stack web development bootcamps with BrainStation and Lighthouse.
