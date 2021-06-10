@@ -35,6 +35,18 @@ requirements.
 - Resolved customer support escalaJons for technical issues.
 - Managed unified communicaJons vendor relaJonship with Cisco.
 
+### Research Assistant, University of Calgary (Jan, 2010 - Apr, 2012)
+- Researched in the area of nano-technology.
+- Designed, developed and tested a 130nm high frequency microchip.
+- Published the research outcome in a renowned journal.
+
+### System Engineer, Grameenphone Ltd. (Jun, 2007 - Aug, 2009)
+- Designed cellular network for voice and data traffic in a team of 12 to handle 10M mobile phone subscribers.
+- Worked with partner teams to design redundancy and resilience for dealing with outage and traffic surge.
+- Provided technical support and guidance for cellular network rollout and scaling.
+
+
+
 
 
 
