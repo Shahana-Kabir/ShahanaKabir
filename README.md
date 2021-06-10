@@ -30,5 +30,11 @@ requirements.
 ### Home Maker (Spe, 2014 - Sep, 2020)
 - Took care of my family of four with two young children.
 
+### Technical Sales Engineer, Allstream, Canada (Sep, 2012 - Sep, 2014)
+- Prepared business cases and financial analysis profiles for voice and data network products based on customer needs.
+- Resolved customer support escalaJons for technical issues.
+- Managed unified communicaJons vendor relaJonship with Cisco.
+
+
 
 
