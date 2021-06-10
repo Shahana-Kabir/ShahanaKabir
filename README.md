@@ -45,6 +45,13 @@ requirements.
 - Worked with partner teams to design redundancy and resilience for dealing with outage and traffic surge.
 - Provided technical support and guidance for cellular network rollout and scaling.
 
+### Professional Trainings
+- Manifesto of Sofware Crafsmanship - LightHouse Labs, Calgary, 2020.
+- QuesJon based selling techniques for clients, Allstream, Toronto, 2012
+- Cisco Sales Expert, CCENT
+- Sales Engineer Bootcamp Training – Unified CommunicaJons sales techniques,
+Allstream, Toronto, 2012.
+
 
 
 
