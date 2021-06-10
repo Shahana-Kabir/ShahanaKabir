@@ -27,5 +27,8 @@ and Technology (BUET), 2007.
 - Communicated with clients to understand, develop, and build features based on their
 requirements.
 
+### Home Maker (Spe, 2014 - Sep, 2020)
+- Took care of my family of four with two young children.
+
 
 
