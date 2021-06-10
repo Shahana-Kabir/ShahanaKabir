@@ -21,7 +21,7 @@ and Technology (BUET), 2007.
 
 ## Experience
 ### Freelance Web Developer(Sep, 2020 - Current)
-- Built several web applicaJons to learn and pracJce web development skills. e.g classified lisJngs, childcare provider search, inventory management
+- Built several web applicaJons to learn and pracJce web development skills. e.g classified lisJngs, childcare provider search, inventory management e.g [Child care service provider](https://github.com/Shahana-Kabir/Happykids), [Classified-listing](https://github.com/Shahana-Kabir/classified-listing) and [Inventory managemnet](https://github.com/Shahana-Kabir/instock).
 - Developed frontend and backend features for these apps using ReactJS, NodeJS, Express, HTML, BootStrap, SCSS, etc.
 - Worked in collaboraJve projects with five other developers using Scrum and Jira.
 - Communicated with clients to understand, develop, and build features based on their
