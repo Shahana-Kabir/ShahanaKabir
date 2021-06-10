@@ -14,3 +14,9 @@ technical sales engineer.
 - B.Sc. in Electrical and Electronics Engineering, Bangladesh University of Engineering
 and Technology (BUET), 2007.
 
+## Web Development Skills
+- Frontend: React, JavaScript, HTML, CSS, SCSS, Bootstrap.
+- Backend: NodeJS, Express, RESTful API, SQL
+- Others: Git, Unit tests, Jest, Jira, Figma, Scrum
+
+
