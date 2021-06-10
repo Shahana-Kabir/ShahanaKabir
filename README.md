@@ -19,4 +19,13 @@ and Technology (BUET), 2007.
 - Backend: NodeJS, Express, RESTful API, SQL
 - Others: Git, Unit tests, Jest, Jira, Figma, Scrum
 
+## Experience
+### Freelance Web Developer(Sep, 2020 - Current)
+- Built several web applicaJons to learn and pracJce web development skills. e.g classified lisJngs, childcare provider search, inventory management
+- Developed frontend and backend features for these apps using ReactJS, NodeJS, Express, HTML, BootStrap, SCSS, etc.
+- Worked in collaboraJve projects with five other developers using Scrum and Jira.
+- Communicated with clients to understand, develop, and build features based on their
+requirements.
+
+
 
