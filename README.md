@@ -15,9 +15,12 @@ technical sales engineer.
 and Technology (BUET), 2007.
 
 ## Web Development Skills
-- Frontend: React, JavaScript, HTML, CSS, SCSS, Bootstrap.
-- Backend: NodeJS, Express, RESTful API, SQL
-- Others: Git, Unit tests, Jest, Jira, Figma, Scrum
+- Frontend: React, JavaScript, HTML, CSS, SASS, Bootstrap, TypeScript, React Hook/Redux, DOM manipulation.
+- Backend: NodeJS, Express, JSON, RESTful APIs, POSTMAN, AJAX, Ruby On Rails.
+- Web APIs authentications: Auth0, Passport.
+- Database:  MySQL, MongoDB, PostgreSQL AWS cloud 9, Goorm.
+- Testing: Unit tests, Jest, Mocha.
+- Others: Git, GitHub, JIRA, Figma, Scrum, LaTex. 
 
 ## Experience
 ### Freelance Web Developer(Sep, 2020 - Current)
